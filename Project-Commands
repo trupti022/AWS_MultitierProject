@@ -1,4 +1,4 @@
-**🔹 1. EC2 Initial Setup (Ubuntu)**
+##🔹 1. EC2 Initial Setup (Ubuntu)
 sudo apt update -y
 
 sudo apt install apache2 php php-mysql mysql-client -y
