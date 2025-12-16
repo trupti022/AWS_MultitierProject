@@ -29,4 +29,4 @@ AWS EC2, RDS (MySQL), ALB, Auto Scaling, S3, AWS (IaC)
 
 ---
 
-## For reference you can check : []()
+## For reference you can check : [Project Solution Document](Project Solution Document.pdf)
