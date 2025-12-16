@@ -30,4 +30,4 @@ AWS EC2, RDS (MySQL), ALB, Auto Scaling, S3, AWS (IaC)
 ---
 
 ## For reference you can check : 
-[Project Solution Document](Project Solution Document.pdf)
+[Project Solution Document](https://github.com/trupti022/AWS_MultitierProject/blob/main/Project%20Solution%20Document.pdf)
